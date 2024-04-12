@@ -1,7 +1,3 @@
-#Student name: Aryan Patel
-#Student number: 501029026
-#Section: 1
-
 # Reverses the EnglishToFrench dictionary and returns the FrenchToEnglish dictionary
 def reverseDictionary(dictionary):
     FtoE = {}  # defines a new dictionary
